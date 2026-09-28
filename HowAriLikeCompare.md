@@ -74,7 +74,7 @@ Title + Subtitle
 ## Checklist — Every Comparison Must
 
 1. **Security scan before push** — check the HTML for leaked IPs, ports, usernames, paths, tokens, or any private infra detail. Strip anything found.
-2. **Add to README** — include the comparison in the repo README with an htmlpreview.github.io link: `https://htmlpreview.github.io/?https://github.com/JarvisDeLaAri/JarvisComparisons/blob/main/<filename>.html`
+2. **Add to README** — include the comparison in the repo README with an htmlpreview.github.io link: `https://htmlpreview.github.io/?https://github.com/bresleveloper-ai-agents/JarvisComparisons/blob/main/<filename>.html`
 3. **Push to repo** — commit and push to JarvisComparisons. No comparison is done until it's pushed.
 
 ---
